@@ -26,20 +26,17 @@
                         <p>ID</p> <img src="img/down-arrow.png" alt="">
                     </div>
                 </li>
-                <li><button>Masuk</button></li>
+                <li><a href="<?=BASEURL?>/Logout"><button>Keluar</button></a></li>
             </ul>
         </div>
     </nav>
     <section class="hero">
         <div class="hero-left-side">
             <div class="judul">
-                <p>Nikmati Tontonan Dimana Saja, dan Kapan Saja</p>
+                <p>Improve your skill with us</p>
             </div>
             <div class="content">
                 <p>Tonton apa saja secara online dari komputer pribadi atau di perangkat yang terhubung ke Internet dan mendukung aplikasi Lucufix, dan gunakan download untuk menonton saat kamu di perjalanan dan tidak punya koneksi Internet.</p>
-            </div>
-            <div class="button">
-                <button>Daftar Sekarang</button>
             </div>
         </div>
         <div class="hero-right-side">
